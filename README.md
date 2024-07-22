@@ -3,8 +3,6 @@
 
 - 🌱 Atualmente estou aprendendo **Python, Machine Learning, SQL**
 
-- 📊 Veja meu Portifólio [https://sites.google.com/view/denihong/sobre](https://sites.google.com/view/denihong/sobre)
-
 - 💬 Pergunte-me sobre **MySQL, Power BI, Metabase, Excel**
 
 - 📫 Você pode entrar em contato comigo pelo e-mail **denihong.rh@gmail.com**
