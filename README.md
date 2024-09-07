@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Deni Hong</h1>
 <h3 align="center">Tenho 25 anos, e estou em transição de carreira para área de dados.</h3>
 
+- 🗂 Veja meu portifólio: **https://sites.google.com/view/denihong/inicio**
+
 - 🌱 Atualmente estou aprendendo **Python, Machine Learning, SQL**
 
 - 💬 Pergunte-me sobre **MySQL, Power BI, Metabase, Excel**
